@@ -86,9 +86,9 @@ Interested in Applied AI, AI Infrastructure, and backend systems at scale.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mdmoaj1&show_icons=true&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmoaj1&layout=compact&hide_border=true" />
 
 </p>
 
@@ -96,7 +96,7 @@ Interested in Applied AI, AI Infrastructure, and backend systems at scale.
 
 ## Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmoaj1&hide_border=true" />
 
 ---
 
@@ -112,4 +112,4 @@ Interested in Applied AI, AI Infrastructure, and backend systems at scale.
 
 ## Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=mdmoaj1)
